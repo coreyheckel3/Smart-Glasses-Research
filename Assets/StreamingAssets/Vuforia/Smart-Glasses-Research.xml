@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="testpaper1" size="1.000000 1.220408" />
+    <ImageTarget name="testpaper" size="1.000000 1.220408" />
+    <ImageTarget name="stevens1" size="1.000000 0.563380" />
+    <ImageTarget name="stevens" size="1.000000 0.560000" />
+    <ImageTarget name="low-vision-paper" size="1.000000 1.226994" />
+    <ImageTarget name="trace-paper" size="1.000000 1.220408" />
+    <ImageTarget name="Astronaut-scaled" size="1.000000 1.727273" />
+    <ImageTarget name="paper3" size="1.000000 1.295082" />
+    <ImageTarget name="paper2" size="0.220000 0.284071" />
+  </Tracking>
+</QCARConfig>
